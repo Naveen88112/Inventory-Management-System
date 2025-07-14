@@ -1,0 +1,5 @@
+pip install pymongo
+
+python db_connection.py
+
+python inventory.py
